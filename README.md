@@ -31,4 +31,4 @@ python main.py
 ```
 Please note that the web application relies on the "Vanila_Unet_model" and "process_image" modules, so ensure you have all the required files in your working directory.
 
-- The project is deployed through this link: 
+- The project is deployed through this link: [Stell-defect-detection][https://steel-defect-detection-z07r00qdpcj.streamlit.app]
