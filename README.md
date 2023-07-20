@@ -19,7 +19,7 @@ This file contains the implementation of the Vanilla U-Net model used for steel 
 - Clone the repository to your local machine.
 - Install the required dependencies using pip:
 ```bash
-pip install tensorflow keras opencv-python streamlit matplotlib
+pip install -r requirements.txt
 ```
 - To use the web application, run the "app_new.py" file:
 ```bash
