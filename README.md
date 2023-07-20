@@ -25,7 +25,7 @@ pip install tensorflow keras opencv-python streamlit matplotlib
 ```bash
 streamlit run app_new.py
 ```
-For standalone image prediction, modify the "path" variable in "main.py" to specify the path of the image you want to test. Then run the script:
+- For standalone image prediction, modify the "path" variable in "main.py" to specify the path of the image you want to test. Then run the script:
 ```bash
 python main.py
 ```
